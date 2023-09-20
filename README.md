@@ -8,6 +8,6 @@ This repository contains the primary source code for processing data from Hammar
 
 3. **Shallow Ice Approximation (SIA)**: The repository includes code for creating a surface velocity model and estimating horizontal strain rates using the Shallow Ice Approximation (SIA) method.
 
-Please note that this repository may have some missing materials, particularly REMA and Bedmachine data due to their large file size. In such cases please contact us. you can find the original pRES data file and ice core eigenvalues in (file:///Users/reza/Zotero/storage/GVQG83AQ/8095508.html)
+Please note that this repository may have some missing materials, particularly REMA and Bedmachine data due to their large file size. In such cases please contact us. you can find the original pRES data file and ice core eigenvalues in (https://zenodo.org/record/8095508)
 
 Feel free to explore and use the code for your research purposes. If you have any questions or need further assistance, please don't hesitate to reach out.
